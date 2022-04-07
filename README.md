@@ -1,10 +1,10 @@
-<h1 align="center"><project-name></h1>
+<h1 align="center">Netflix-project</h1>
 
-<p align="center"><project-description></p>
+<p align="center">Netflix-project is a front-end application which allows users to see movie categories and clips built with ReactJS and GraphQL pagination.</p>
 
 ## Links
 
-- [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
+- [Repo](https://github.com/maheshbhandari433/netflix-project> "<project-name> Repo")
 
 - [Live](<Homepage url> "Live View")
 
@@ -52,7 +52,7 @@ For running the server file on you can use this command.
 - JavaScript
 - Node
 - NPM
-- Webpack
+- React
 - HTML
 - CSS
 
@@ -62,11 +62,11 @@ For running the server file on you can use this command.
 
 ## Author
 
-**Rohit Jain**
+**Mahesh Bhandari**
 
-- [Profile](https://github.com/rohit19060 "Rohit jain")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi "Hi!")
-- [Website](https://kingtechnologies.in "Welcome")
+- [Profile](https://github.com/maheshbhandari433)
+- [Email](mailto:maheshbhandari433@gmail.com)
+- [Website](https://github.com/maheshbhandari433)
 
 ## 🤝 Support
 
