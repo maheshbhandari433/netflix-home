@@ -1,28 +1,31 @@
 <h1 align="center">Netflix-project</h1>
 
-<p align="center">Netflix-project is a front-end application which allows users to see movie categories and clips built with ReactJS and GraphQL pagination.</p>
+<p align="center">This is a project in attempt to create a netflix-clone. IT uses ReactJS and GraphQL pagination to load data in front-end view. This project was created for learning and practicing Javascript with React.</p>
 
 ## Links
 
-- [Repo](https://github.com/maheshbhandari433/netflix-project> "<project-name> Repo")
+- [Repo](https://github.com/maheshbhandari433/netflix-project "<project-name> Repo")
 
-- [Live](<Homepage url> "Live View")
+- [Live](https://netflix-project-01.netlify.app "Live View")
 
-- [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
+- [Bugs](https://github.com/maheshbhandari433/netflix-project/issues "Issues Page")
 
-- [API](<API Link> "API")
+- [API](https://netflix-project-01.netlify.app "API")
 
 ## Screenshots
 
-![Home Page](/screenshots/1.png "Home Page")
+![Home Page](src/home-screenshot.png "Home Page")
 
-![](/screenshots/2.png)
-
-![](/screenshots/3.png)
 
 ## Available Commands
 
 In the project directory, you can run:
+
+### `"netlify dev": "production-ready environment starts"`,
+
+Launches the project in production-ready environment.
+
+<h3>[Note: Make sure to install npm and netlify-cli]</h3>
 
 ### `npm start" : "react-scripts start"`,
 
@@ -58,7 +61,7 @@ For running the server file on you can use this command.
 
 ## Future Updates
 
-- [ ] Reliable Storage
+- API development
 
 ## Author
 
